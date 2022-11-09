@@ -1,0 +1,4 @@
+BS works on 12 COlumn grid system
+
+Rows are parent
+Cols are children

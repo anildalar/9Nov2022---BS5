@@ -2,3 +2,48 @@ BS works on 12 COlumn grid system
 
 Rows are parent
 Cols are children
+
+DRY Principle
+
+D = Dont
+R = Repeat
+Y = Yourself
+BS coloumn 12 COlum grid
+
+3 COl grid
+
+xs   0px - 575px
+		4 4 4	
+			
+sm   576px - 767px
+		1 10 1
+
+md   768px - 991px
+		10  1 1
+
+lg   992px - 1199px
+		2  2   8
+
+xl   1200px - 1399px 
+		8  2  2
+
+xxl  1400px - *
+		6  3  3
+
+
+
+
+
+
+
+Assignments
+
+4 colum  A,B,C,D
+
+xs   1,1,1,9
+sm   9,1,1,1
+md   6,2,2,2
+lg   2,2,2,6
+xl   3,3,3,3
+xxl  1,2,3,6
+
